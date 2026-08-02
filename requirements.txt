@@ -9,3 +9,4 @@ gwpy
 pycbc
 astropy
 pandas
+setuptools
